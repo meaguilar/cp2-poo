@@ -1,4 +1,4 @@
-## Primer Corto practico - CP1
+## Segundo Corto practico - CP2
 
 1. Crea una cuenta en github con tu cuenta institucional
 2. Accede a la tarea que está en Moodle llamada cp2
